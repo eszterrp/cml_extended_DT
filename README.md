@@ -6,6 +6,9 @@ The repository contains 2 files:
   - final jupyter notebook of the project
   - .py file that contains the extra functions that were created and used for this project
 
+Used dataset: the **MIMIC-III** (‘Medical Information Mart for Intensive Care’) is a large, single-center database comprising information relating to patients admitted to critical care units at a large tertiary care hospital. Data includes vital signs, medications, laboratory measurements, observations and notes charted by care providers, fluid balance, procedure codes, diagnostic codes, imaging reports, hospital length of stay, survival data, and more.
+https://mimic.mit.edu/docs/gettingstarted/
+
 **Project Summary**
 
 1. Preprocess data
