@@ -6,7 +6,7 @@ The repository contains 2 files:
   - final jupyter notebook of the project
   - .py file that contains the extra functions that were created and used for this project
 
-<font size="3">**Project Summary **</font>
+**Project Summary**
 
 1. Preprocess data
     - create new features regarding length of stay + number of comorbidities
